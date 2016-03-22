@@ -1,5 +1,5 @@
 {
-    "name": "jdchmiel/magento-mirror",
-    "description": "Magento Community",
+    "name": "magento/magento",
+    "description": "Magento Mirror",
     "type": "magento-core"
 }
